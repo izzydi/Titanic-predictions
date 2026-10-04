@@ -1,19 +1,19 @@
 # Titanic Survival Prediction
 
-A machine-learning analysis of the Titanic passenger dataset, focused on predicting passenger survival from the available demographic and travel-related features.
+A machine-learning analysis of the Titanic passenger dataset, focused on predicting passenger survival from demographic and travel-related features.
 
 ## Project overview
 
-This repository contains the rendered output of the analysis in `exercise2.html`. The project demonstrates a complete classification workflow, from exploratory analysis and preprocessing through model evaluation.
+This repository contains the rendered output of the analysis in `titanic_survival_analysis.html`. The project demonstrates a classification workflow from exploratory analysis and preprocessing through model evaluation.
 
 ## Repository contents
 
-- [`exercise2.html`](exercise2.html) — rendered analysis and results.
+- [`titanic_survival_analysis.html`](titanic_survival_analysis.html) — rendered analysis and results.
 
 ## How to view the analysis
 
-Because the project is stored as a rendered HTML document, download `exercise2.html` and open it in a browser, or use a GitHub-compatible HTML preview service.
+Download `titanic_survival_analysis.html` and open it in a browser, or use a GitHub-compatible HTML preview service.
 
-## Portfolio note
+## Reproducibility note
 
-The repository preserves the original analytical work. The source notebook/R Markdown file is not currently included, so the project should be treated as a reproducible-results archive rather than a fully self-contained development package.
+The original source notebook/R Markdown file is not currently included, so the repository should be treated as a portfolio archive of the completed analysis rather than a fully self-contained development package.
