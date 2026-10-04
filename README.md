@@ -1,5 +1,7 @@
 # Titanic Survival Prediction
 
+> **Historical portfolio artifact:** this repository preserves the rendered analysis; the original executable source is not currently available here.
+
 A machine-learning analysis of the Titanic passenger dataset, focused on predicting passenger survival from demographic and travel-related features.
 
 ## Project overview
